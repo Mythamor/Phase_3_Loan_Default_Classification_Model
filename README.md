@@ -10,6 +10,8 @@ The goal of this project is to predict loan defaults for motor vehicle loans iss
 ## Data Insights
 Our dataset includes information on 233,154 loans issued over a period of 336 days, spanning from January to December 2018. It consists of 40 variables that provide valuable insights into loan default patterns. Understanding these patterns helps lenders make informed decisions and improve risk assessment strategies.
 
+![Loan Default](data/ld.png)
+
 ## Models and Techniques
 We employed various classification models to predict loan defaults, including:
 - Logistic Regression
@@ -33,6 +35,9 @@ Our trained model achieved the following results:
 - F1 Score: 40.33%
 - AUC: 64.47%
 
+![Loan Default](data/fpr.png)
+
 ## Conclusion
 In this project, I successfully developed a loan default classification model that assists financial institutions in identifying potential loan defaults among motor vehicle loans. By leveraging advanced machine learning techniques, we improved risk assessment accuracy and empowered lenders to make more informed decisions, ultimately reducing financial losses associated with loan defaults.
  
+> Author: [Mithamo Beth](https://github.com/Mythamor/Mythamor) 
