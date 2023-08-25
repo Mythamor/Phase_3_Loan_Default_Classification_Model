@@ -1,5 +1,5 @@
 # Loan Default Classification Model
-![image.png](attachment:image.png)
+![image](https://github.com/Mythamor/Phase_3_Loan_Default_Classification_Model/assets/113252977/988bd341-2ada-42dd-8638-0180d737b322)
 
 ## Overview
 Financial institutions often face significant losses due to loan defaults. By building a loan default classification model, these institutions can make more informed decisions, mitigate risks, and improve their lending strategies. In this project, I have developed a model to predict loan defaults for motor vehicle loans.
