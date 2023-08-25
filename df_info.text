@@ -1,0 +1,33 @@
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 217813 entries, 420825 to 630213
+Data columns (total 26 columns):
+ #   Column                               Non-Null Count   Dtype   
+---  ------                               --------------   -----   
+ 0   Disbursed_amount                     217813 non-null  int64   
+ 1   Asset_cost                           217813 non-null  int64   
+ 2   Ltv                                  217813 non-null  float64 
+ 3   Manufacturer_id                      217813 non-null  int64   
+ 4   Employment_type                      217813 non-null  object  
+ 5   State_id                             217813 non-null  int64   
+ 6   Mobileno_avl_flag                    217813 non-null  int64   
+ 7   Aadhar_flag                          217813 non-null  int64   
+ 8   Voterid_flag                         217813 non-null  int64   
+ 9   Passport_flag                        217813 non-null  int64   
+ 10  Pri_no_of_accts                      217813 non-null  int64   
+ 11  Pri_active_accts                     217813 non-null  int64   
+ 12  Pri_overdue_accts                    217813 non-null  int64   
+ 13  Pri_current_balance                  217813 non-null  int64   
+ 14  Pri_disbursed_amount                 217813 non-null  int64   
+ 15  New_accts_in_last_six_months         217813 non-null  int64   
+ 16  Delinquent_accts_in_last_six_months  217813 non-null  int64   
+ 17  No_of_inquiries                      217813 non-null  category
+ 18  Loan_default                         217813 non-null  int64   
+ 19  Average_loan_tenure                  217813 non-null  int64   
+ 20  Credit_history_length_months         217813 non-null  int64   
+ 21  Cns_score_category                   217813 non-null  object  
+ 22  _average_credit                      217813 non-null  int64   
+ 23  CNS_score_bins                       217813 non-null  category
+ 24  Age                                  217813 non-null  int64   
+ 25  Disbursal_month                      217813 non-null  int64   
+dtypes: category(2), float64(1), int64(21), object(2)
+memory usage: 50.0+ MB
